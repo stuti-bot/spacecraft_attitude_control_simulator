@@ -32,8 +32,8 @@ The simulation is built on the fundamental principles of rotational dynamics and
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/stuti-bot/spacecraft_attitude_control_simulator.git
+    cd spacecraft_attitude_control_simulator
     ```
 2.  **Set up a Python environment and install dependencies:**
     ```bash
